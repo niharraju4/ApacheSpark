@@ -1,0 +1,40 @@
+Software Engineering specilizations:
+1. System Software
+2. Programming Tools
+3. Desktop Applications
+4. Data Processing Applications
+5. Web & Mobile Applications
+6. Software platform
+7. Cloud Computing
+8. Machine learning and AI
+
+
+RDBMS WHAT DO THEY OFFER:
+
+1) SQL: An easy Data Query Language
+2) Scripting Language SUCH AS PL/SQL and Transact SQL
+3) Interfacing for other languages such as JDBC and ODBC
+
+
+                                 Data Categories:
+1. Structured [ rows and columns format]
+2. Semi Structured [key valued structure such as json or xml]
+3. Unstructured [text, pdf, images, video, audio, etc., there is no specific defination]
+
+                              # Big data Probelem
+RDBMS fails to handle Semi Structured and Unstructured data and the problem it faces are:
+1) variety : the above cateogory of data has to be handled which it fails
+2) Volume : it should be able to handle terabytes and petabytes in short period
+3) Velocity : the processing time must be very less and fast
+
+
+RDBMS failed to handle this problem 
+
+only Two ways to solve big state Solution:
+1)Monolithic approach: CPU, RAM, DISK
+2)Distributed approach: cLUSTER [CPU, RAM AND DISK]
+
+Both approaches need:
+1) Scalibility: [the ability to increase or decrese the performance]
+2) Fault Torelence and handle
+3) Cost Effectiveness
